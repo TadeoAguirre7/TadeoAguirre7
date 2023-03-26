@@ -1,7 +1,7 @@
 ### Hola 👋
 
 
-¡Hola! 👋
+
 Soy un desarrollador frontend apasionado por la creación de interfaces de usuario y la construcción de aplicaciones web. Estoy especializado en las siguientes tecnologías:
 
 
